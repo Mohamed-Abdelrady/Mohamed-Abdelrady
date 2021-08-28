@@ -8,7 +8,7 @@
 <p>Thank You for taking the time to view my GitHub Profile :smile: </p>
 </div>
   
-[![UpWork: mohamed](https://img.shields.io/badge/UpWork-6FDA44?style=flat-square&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~0131eaf1944c2cbdd9)](https://www.upwork.com/freelancers/~0131eaf1944c2cbdd9)
+![UpWork: mohamed](https://img.shields.io/badge/UpWork-6FDA44?style=flat-square&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~0131eaf1944c2cbdd9)(https://www.upwork.com/freelancers/~0131eaf1944c2cbdd9)
 [![Freelancer: mohamed](https://img.shields.io/badge/Freelancer-29B2FE?style=flat-square&logo=freelancer&logoColor=white&link=https://www.freelancer.com/u/mohamed1377)](https://www.freelancer.com/u/mohamed1377)
 [![Gmail: mohamed](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=https://discord.com/invite/PdQyQ3vuZs)](mailto:mohamedabdelrady1377@gmail.com)
 [![LinkedIn: mohamed](https://img.shields.io/badge/-linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-abdelrady/)](https://www.linkedin.com/in/mohamed-abdelrady/)
