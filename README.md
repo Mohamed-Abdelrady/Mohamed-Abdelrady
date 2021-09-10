@@ -1,7 +1,10 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Mohamed-Abdelrady.Mohamed-Abdelrady)
+![Visits Badge](https://badges.pufler.dev/visits/Mohamed-Abdelrady/Mohamed-Abdelrady)
+![Repos Badge](https://badges.pufler.dev/repos/Mohamed-Abdelrady)
+
+
 
 </p>
 <div size='20px'> Hi! My name is Mohamed, and I'm Front-End Developer. 
@@ -51,7 +54,6 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
 
-![Visitor Count](https://profile-counter.glitch.me/{Mohamed-Abdelrady}/count.svg)
 
 <!---
 Mohamed-Abdelrady/Mohamed-Abdelrady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
