@@ -2,6 +2,7 @@
 <p align='center'>
 
 ![Visits Badge](https://badges.pufler.dev/visits/Mohamed-Abdelrady/Mohamed-Abdelrady)
+![Repos Badge](https://badges.pufler.dev/repos/Mohamed-Abdelrady)
 
 
 
