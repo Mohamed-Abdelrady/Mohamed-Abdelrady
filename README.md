@@ -51,6 +51,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
 
+![Visitor Count](https://profile-counter.glitch.me/{Mohamed-Abdelrady}/count.svg)
 
 <!---
 Mohamed-Abdelrady/Mohamed-Abdelrady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
